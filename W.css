@@ -27,3 +27,9 @@ font-family:"Open Sans ",sans-serif;
   transform:translate3D(-50%,-50%,0);
   
 }
+.site-subtitle{
+  font-size:24px;
+  font-weight:300;
+  letter-spacing:20px;
+  text-align:center;
+  text-transform:uppercase;}
